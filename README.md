@@ -1,1 +1,2 @@
 # FranchiseCapstone
+Login + Upload
